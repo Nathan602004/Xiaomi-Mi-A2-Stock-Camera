@@ -17,7 +17,7 @@ Thanks to these people!
 LICENSE
 Copyright © 2018 joeyhuab. Licensed under the GNU General Public License v3.
 
+## [XDA Official thread](https://forum.xda-developers.com/apps/magisk/module-xiaomi-mi-a1-stock-camera-t3810432)
 ## [Pixel Experience XDA Portal feature](https://www.xda-developers.com/pixel-2-experience-magisk-module/)
 ## [Android P Emojis & Fonts XDA Portal feature](https://www.xda-developers.com/android-p-emoji-fonts-magisk-module/)
-## [XDA Official thread](https://forum.xda-developers.com/apps/magisk/module-pixel-2-experience-t3757137/)
-## [Github source](https://github.com/joeyhuab/Pixel-2-Experience-Magisk/)
+## [Github source](https://github.com/Magisk-Modules-Repo/Xiaomi-Mi-A1-Stock-Camera)
