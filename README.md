@@ -12,12 +12,16 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 ## Feedback & Support
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
 
+## Changelog
+6/30/18
+- Initial module
+
 ## Thanks
 Thanks to these people!
 - Ramesh Hunter for the initial module
 - Sipollo for the Telephoto and wide lens fixes
 
-LICENSE
+## LICENSE
 Copyright © 2018 joeyhuab. Licensed under the GNU General Public License v3.
 
 ## [XDA Official thread](https://forum.xda-developers.com/apps/magisk/module-xiaomi-mi-a1-stock-camera-t3810432)
