@@ -9,6 +9,9 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 - Camera2 API support (find a working Modded Google Camera app [here](https://www.celsoazevedo.com/files/android/google-camera/))
 - EIS support (for devices with EIS)
 
+## Feedback & Support
+- Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
+
 ## Thanks
 Thanks to these people!
 - Ramesh Hunter for the initial module
