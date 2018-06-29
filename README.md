@@ -5,8 +5,9 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 
 ## Features
 - MiuiCamera from Mi A1 stock ROM
+- All features of Mi A1's stock Camera app
 - Camera2 API support (find a working Modded Google Camera app [here](https://www.celsoazevedo.com/files/android/google-camera/))
-- EIS support
+- EIS support (for devices with EIS)
 
 ## Thanks
 Thanks to these people!
