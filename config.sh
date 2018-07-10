@@ -42,7 +42,7 @@ LATESTARTSERVICE=true
 
 print_modname() {
   ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
-  ui_print "  Xiaomi Mi A1 Stock Camera app v1  "
+  ui_print "  Xiaomi Mi A1 Stock Camera app v2  "
   ui_print "            by Joey Huab            "
   ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
   ui_print "            Installing...           "
