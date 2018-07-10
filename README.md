@@ -13,6 +13,9 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
 
 ## Changelog
+7/10/18
+- Remove device model from system.prop
+
 6/30/18
 - Initial module
 
