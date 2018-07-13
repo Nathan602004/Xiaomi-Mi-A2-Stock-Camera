@@ -4,4 +4,4 @@
 persist.camera.HAL3.enabled=1
 persist.camera.eis.enable=1
 camera.hal1.packagelist=com.whatsapp
-vendor.camera.aux.packagelist=com.android.camera,org.lineageos.snap,com.google.android.GoogleCameraWide,com.android.camera,com.google.android.GoogleCamerb,com.google.android.GoogleCamera
+vendor.camera.aux.packagelist=com.android.camera,org.lineageos.snap,com.google.android.GoogleCameraWide,com.android.camera,com.google.android.GoogleCamerb,com.google.android.GoogleCamera,com.google.android.GoogleCameraTele
