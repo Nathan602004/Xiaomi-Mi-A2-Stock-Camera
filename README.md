@@ -18,7 +18,7 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 - Revert ro.product.device to tissot_sprout for compelete features
 - Updated system.prop
 
-3b
+3b ## [Download](https://github.com/Magisk-Modules-Repo/Xiaomi-Mi-A1-Stock-Camera/releases/download/v3b/Xiaomi-Mi-A1-Stock-Camera-v3b.zip)
 - Without ro.product.device=tissot_sprout
 - Updated system.prop
 
