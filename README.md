@@ -15,10 +15,10 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 ## Changelog
 7/13/18
 # 3.a
-- Revert device model to tissot_sprout for compelete features
+- Revert ro.product.device to tissot_sprout for compelete features
 - Updated system.prop
 # 3.b
-- Without tissot_sprout device model
+- Without ro.product.device=tissot_sprout
 - Updated system.prop
 
 7/10/18
