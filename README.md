@@ -32,6 +32,7 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 Thanks to these people!
 - Ramesh Hunter for the initial module
 - Sipollo for the Telephoto and wide lens fixes
+- fu24 for additional codes on Tele Camera
 
 ## LICENSE
 Copyright © 2018 joeyhuab. Licensed under the GNU General Public License v3.
