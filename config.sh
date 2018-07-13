@@ -41,12 +41,12 @@ LATESTARTSERVICE=true
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
-  ui_print " Xiaomi Mi A1 Stock Camera app v3.a "
-  ui_print "            by Joey Huab            "
-  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
-  ui_print "            Installing...           "
-  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
+  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
+  ui_print " Xiaomi Mi A1 Stock Camera app v3a "
+  ui_print "            by Joey Huab           "
+  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
+  ui_print "            Installing...          "
+  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
 }
 
 ##########################################################################################
