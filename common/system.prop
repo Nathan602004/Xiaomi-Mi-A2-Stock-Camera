@@ -1,7 +1,6 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
-ro.product.device=tissot_sprout
 persist.camera.HAL3.enabled=1
 persist.camera.eis.enable=1
 camera.hal1.packagelist=com.whatsapp
