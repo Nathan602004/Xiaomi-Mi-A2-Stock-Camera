@@ -105,7 +105,7 @@
     <!--whether the device supports encrypt-->
     <bool name="support_device_encrypt">true</bool>
     <!--whether support burst shoot in camera-->
-    <bool name="support_camera_burst_shoot">true</bool>
+    <bool name="support_camera_burst_shoot">false</bool>
     <!--whether support burst shoot denoise in camera-->
     <bool name="support_camera_burst_shoot_denoise">true</bool>
     <!--whether support solid recording in camera-->
