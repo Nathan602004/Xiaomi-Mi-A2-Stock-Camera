@@ -9,10 +9,19 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 - Camera2 API support (find a working Modded Google Camera app [here](https://www.celsoazevedo.com/files/android/google-camera/))
 - EIS support (for devices with EIS)
 
+## Bugs
+- Shutter sound can't be muted (Only if you put you phone in silent mode)
+- QR Code reader doesn't work (Maybe it's missing some libs)
+- Burst mode crashes the app
+
 ## Feedback & Support
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
 
 ## Changelog
+# 7/21/18 (v5)
+- Update APK from latest Stock ROM
+- Include bug list
+
 # 7/18/18 (v4)
 - Bypass tissot_sprout device check
 
