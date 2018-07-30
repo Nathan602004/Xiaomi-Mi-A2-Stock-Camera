@@ -18,6 +18,9 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
 
 ## Changelog
+# 7/30/18 (v7)
+- Added more files from Stock ROM for stability
+
 # 7/23/18 (v6)
 - Fix crash when using portrait mode
 
