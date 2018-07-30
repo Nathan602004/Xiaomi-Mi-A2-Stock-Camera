@@ -1,7 +1,7 @@
 id=TissotStockCam
 name=Xiaomi Mi A1 Stock Camera
-version=v6
-versionCode=6
+version=v7
+versionCode=7
 author=Joey Huab (Stallixx) & Daniel Stuart with help from RAMESH HUNTER (ramesh1686 @ xda), sipollo
 description=Allows you to install Xiaomi Mi A1's stock Camera app for all custom ROMs, systemlessly. This also enables telephoto lens and Zoom in Google Camera.
 support=https://forum.xda-developers.com/apps/magisk/module-xiaomi-mi-a1-stock-camera-t3810432
