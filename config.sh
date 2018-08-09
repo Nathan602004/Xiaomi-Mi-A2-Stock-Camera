@@ -41,12 +41,12 @@ LATESTARTSERVICE=true
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
-  ui_print " Xiaomi Mi A1 Stock Camera app "
-  ui_print " by Joey Huab & Daniel Stuart  "
-  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
-  ui_print "          Installing...        "
-  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
+  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
+  ui_print "         Xiaomi Mi A2 Camera          "
+  ui_print "        by Joey Huab, Kdragon         "
+  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
+  ui_print "              Installing...           "
+  ui_print " ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
 }
 
 ##########################################################################################
@@ -69,6 +69,7 @@ REPLACE="
 # Construct your own list here, it will overwrite the example
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
+/system/priv-app/MiuiCamera
 "
 
 ##########################################################################################
