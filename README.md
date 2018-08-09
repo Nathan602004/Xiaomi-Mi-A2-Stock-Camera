@@ -1,4 +1,4 @@
-# Xiaomi Mi A1 Stock Camera
+# Xiaomi Mi A2 Stock Camera
 
 ## Information
 This module can be flashed with all Tissot custom ROMs. The module also enables telephoto lens and Zoom support in GCam's portrait mode.
