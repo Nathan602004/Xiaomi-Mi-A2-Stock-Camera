@@ -4,20 +4,24 @@
 This module can be flashed with all Tissot custom ROMs. The module also enables telephoto lens and Zoom support in GCam's portrait mode.
 
 ## Features
-- MiuiCamera from Mi A1 stock ROM
-- All features of Mi A1's stock Camera app
+- MiuiCamera from Mi A2 stock ROM
+- All features of Mi A2's stock Camera app
 - Camera2 API support (find a working Modded Google Camera app [here](https://www.celsoazevedo.com/files/android/google-camera/))
 - EIS support (for devices with EIS)
 
 ## Bugs
-- Shutter sound can't be muted (Only if you put you phone in silent mode)
-- QR Code reader doesn't work (Maybe it's missing some libs)
-- Burst mode crashes the app
+- Front portraits (doesn't blur BG)
+- Switching between modes causes FC
+- AI unable to recognize scenes
+- FP shutter not working
 
 ## Feedback & Support
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
 
 ## Changelog
+# 8/9/18 (v8)
+- Update to Mi A2 Camera port
+
 # 7/30/18 (v7)
 - Added more files from Stock ROM for stability
 
