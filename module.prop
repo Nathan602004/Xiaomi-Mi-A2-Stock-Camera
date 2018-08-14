@@ -1,9 +1,9 @@
 id=TissotStockCam
 name=Xiaomi Mi A2 Stock Camera
-version=v8
-versionCode=8
+version=v9
+versionCode=9
 author=Joey Huab, Daniel Stuart, ramesh1686, sipollo
-description=INSTALL THE UPDATE VIA TWRP!!! Installs Xiaomi Mi A2's stock Camera app for all custom ROMs systemlessly. This also enables telephoto lens and Zoom in Google Camera.
+description=INSTALL THE UPDATE VIA TWRP!!! This is for stock and custom ROMs. Use the other module for Pie GSI. Installs Xiaomi Mi A2's stock Camera app for all custom ROMs systemlessly. This also enables telephoto lens and Zoom in Google Camera.
 support=https://forum.xda-developers.com/apps/magisk/module-xiaomi-mi-a1-stock-camera-t3810432/
 donate=https://www.paypal.me/joeyhuab
 minMagisk=1500
