@@ -19,7 +19,10 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
 
 ## Changelog
-# 8/15/18 (v9)
+# 8/15/18 (v10)
+- Revert app breaking changes
+
+# 8/14/18 (v9)
 - Include optimizations for Camera
 
 # 8/9/18 (v8)
