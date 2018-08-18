@@ -241,6 +241,11 @@
     <float name="camera_exposure_compensation_steps_num">12.0</float>
     <!--Left margin of count down parent layout for front camera-->
     <float name="camera_front_count_down_margin">-0.3460</float>
+    <!--When these apps access camera, force use higher size -->
+    <string-array name="remove_lower_perview_size_list">
+        <item>com.tencent.mm</item>
+        <item>com.whatsapp</item>
+    </string-array>
     <!--camera continuous shot callback class name-->
     <string name="camera_continuous_shot_callback_class">ContinuousShotCallback</string>
     <!--camera continuous shot callback setter method name-->
