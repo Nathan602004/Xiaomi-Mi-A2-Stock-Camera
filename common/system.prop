@@ -1,8 +1,6 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
-ro.product.device=tissot_sprout
-
 mm.enable.qcom_parser=3183219
 persist.camera.HAL3.enabled=1
 persist.camera.eis.enable=1
