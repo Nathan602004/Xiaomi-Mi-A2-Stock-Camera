@@ -19,7 +19,7 @@ This module can be flashed with all Tissot custom ROMs. The module also enables 
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
 
 ## Changelog
-# 8/19/18 (v12.2)
+# 8/19/18 (v13)
 - Fixes for tissot_sprout
 - Fixes for whyred
 
